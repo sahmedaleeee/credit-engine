@@ -24,7 +24,3 @@ This project demonstrates the entire end-to-end process of credit risk modeling,
 ## Summary
 
 This project highlights my ability to apply advanced data science techniques in a real-world context, focusing on credit risk modeling and regulatory compliance. The work reflects a deep understanding of the financial sector’s requirements and showcases my skills in developing, evaluating, and maintaining robust models for risk assessment.
-
----
-
-Let me know if you would like any further adjustments!
